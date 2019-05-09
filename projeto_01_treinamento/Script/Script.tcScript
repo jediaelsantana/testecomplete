@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
 	<children>
-		<folder name="teste02" />
-		<child name="teste_01" key="{ECF73AEF-663A-433E-A1EE-0859A4F67D6C}" path="teste_01.py" />
+		<folder name="teste02">
+			<child name="teste_01" key="{ECF73AEF-663A-433E-A1EE-0859A4F67D6C}" path="teste_01.py" />
+		</folder>
 	</children>
 </Root>

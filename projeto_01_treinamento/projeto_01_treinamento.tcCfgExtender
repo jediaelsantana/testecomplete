@@ -59,7 +59,9 @@
 			<Node name="{fc9c0755-2819-4b25-8964-06a87b81e1ad}">
 				<Node name="projeto_01_treinamento">
 					<Node name="projeto_01_treinamento">
-						<Node name="script"/>
+						<Node name="script">
+							<Node name="teste02"/>
+						</Node>
 						<Node name="testedapps"/>
 					</Node>
 				</Node>
